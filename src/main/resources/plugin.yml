@@ -1,0 +1,4 @@
+name: BlockDecay
+version: '${project.version}'
+main: com.quadflame.blockdecay.Blockdecay
+api-version: 1.18
